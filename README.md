@@ -3,11 +3,11 @@ This is the code for the paper "Likai Wang, Xiangqun Zhang, Ruize Han, Yanjie We
 
 
 ## Dataset
-### SCCVReID
+### CCV-S
 - [[Google Drive](https://drive.google.com/file/d/1f2UX8XUElU8y--LYCzYPZ3gyFvU96YMP/view?usp=sharing)]
 - [[Baiduyun](https://pan.baidu.com/s/1Z0vxHefoeat2BQWcETy-QA)] password: 3j3u
 
-### RCCVReID
+### CCV-R
 - [[Google Drive](https://drive.google.com/file/d/1vyJtATpMmjOlfVExiO0od8k1ozO46_Dv/view?usp=sharing)]
 - [[Baiduyun](https://pan.baidu.com/s/1MIUExuQf6AtEuOqJ4NNgUg)] password: 4tiu
 
@@ -21,10 +21,10 @@ Please cite this paper in your publications if it helps your research:
 @inproceedings{wang2024benchmark,
   title={A New Benchmark and Algorithm for Clothes-Changing Video Person Re-Identification},
   author={Wang, Likai and Zhang, Xiangqun and Han, Ruize and Wei, Yanjie and Wang, Song and Feng, Wei},
-  year={2022}
+  year={2024}
 }
 ```
 
 ## Acknowledgement
 
-- The SCCVReID dataset is built based on [JTA-Mods](https://github.com/fabbrimatteo/JTA-Mods).
+- The CCV-S dataset is built based on [JTA-Mods](https://github.com/fabbrimatteo/JTA-Mods).
