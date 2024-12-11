@@ -1,5 +1,5 @@
 # CCVReID
-This is the code for the paper "Likai Wang, Xiangqun Zhang, Ruize Han, Jialin Yang, Xiaoyu Li, Wei Feng, Song Wang: [A Benchmark of Video-Based Clothes-Changing Person Re-Identification](https://arxiv.org/abs/2211.11165)".
+This is the code for the paper "Likai Wang, Xiangqun Zhang, Ruize Han, Yanjie Wei, Song Wang, Wei Feng: [A New Benchmark and Algorithm for Clothes-Changing Video Person Re-Identification](https://arxiv.org/abs/2211.11165)".
 
 
 ## Dataset
@@ -18,9 +18,9 @@ Coming soon.
 Please cite this paper in your publications if it helps your research:
 
 ```BibTeX
-@inproceedings{wang2022benchmark,
-  title={A Benchmark of Video-Based Clothes-Changing Person Re-Identification},
-  author={Wang, Likai and Zhang, Xiangqun and Han, Ruize and Yang, Jialin and Li, Xiaoyu and Feng, Wei and Wang, Song},
+@inproceedings{wang2024benchmark,
+  title={A New Benchmark and Algorithm for Clothes-Changing Video Person Re-Identification},
+  author={Wang, Likai and Zhang, Xiangqun and Han, Ruize and Wei, Yanjie and Wang, Song and Feng, Wei},
   year={2022}
 }
 ```
