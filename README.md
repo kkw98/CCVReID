@@ -18,10 +18,11 @@ Coming soon.
 Please cite this paper in your publications if it helps your research:
 
 ```BibTeX
-@inproceedings{wang2024benchmark,
+@article{wang2025benchmark,
   title={A New Benchmark and Algorithm for Clothes-Changing Video Person Re-Identification},
   author={Wang, Likai and Zhang, Xiangqun and Han, Ruize and Wei, Yanjie and Wang, Song and Feng, Wei},
-  year={2024}
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2025}
 }
 ```
 
